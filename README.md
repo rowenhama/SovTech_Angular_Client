@@ -1,6 +1,22 @@
 # SovTechAngularClient
 
+THIS IS THE CLIENT SIDE OF SOVTECH
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+
+## Screenshots
+
+## Important packages to install
+
+Run `npm install primeng --save` and after that run `npm install primeicons --save`
+-> this is a rich set of open source native Angular UI components.
+-> installed for the project to meet requirement of the task
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Mini Description
+
+~ This project consumes a server side GraphQL built in Spring Boot
 
 ## Development server
 
@@ -22,6 +38,3 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
