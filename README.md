@@ -6,9 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Screenshots
 
+# This shows the first page as required which shows all the people
 ![Screenshot (66)](https://user-images.githubusercontent.com/21174989/195571780-a3d835ca-5f3b-4f54-b0e7-d50ecd99c34a.png)
 
 
+# This shows functionality of the search which brings one person
 ![Screenshot (67)](https://user-images.githubusercontent.com/21174989/195571795-5b2fd10c-f6b8-4426-8c64-7a6d1751722b.png)
 
 
